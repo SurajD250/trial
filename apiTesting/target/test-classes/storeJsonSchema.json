@@ -1,0 +1,22 @@
+{
+    "book": [
+        {
+            "author": "Nigel Rees",
+            "category": "reference",
+            "price": 150.5,
+            "title": "Sayings of the Century"
+        },
+        {
+            "author": "Evelyn, Waugh",
+            "category": "fiction",
+            "price": 100,
+            "title": "Sword of Honour"
+        },
+        {
+            "author": "Herman Melville",
+            "category": "fiction",
+            "price": 200,
+            "title": "The Lord of the Rings"
+        }
+    ]
+}
